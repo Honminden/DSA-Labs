@@ -1,7 +1,7 @@
 # LAB 1  INT ARRAY EDITOR
 
 ## Problem
-To implement a most powerful editor for integer sequences. The sequence is just an empty list wheninitialized, and the editor for the sequence should support the following 5 operations:
+To implement a most powerful editor for integer sequences. The sequence is just an empty list when initialized, and the editor for the sequence should support the following 5 operations:
 
 | Operation | Description |
 | :--- | :--- |
